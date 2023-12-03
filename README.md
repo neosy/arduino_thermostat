@@ -8,7 +8,7 @@ Copy files from the `lib` and `src` folders to the same directory. Open the proj
 ## Works stably
 The program works stably and does not freeze. After turning off the power, the device boots up and continues to work.
 The Watchdog function is used to handle device freezes. The device will be rebooted if it does not respond within 8 seconds.
-The program was tested and refined over 1.5 years.
+The program has been tested and refined for a long time. The repository contains version 12.
 
 ## Photos of the working device
 ![IMG_20231104_110153](https://github.com/neosy/arduino_thermostat/assets/105918329/f894bf71-b588-4114-b1e7-5491affc128f)
