@@ -1,5 +1,12 @@
 #include "nRelayIN.h"
 
+// Library NRelay
+// Author: Neosy <neosy.dev@gmail.com>
+//
+//==================================
+// Version 0.1
+//==================================
+
 // ********************************* Functions for class RelayIN ****************************
 NRelayIN::NRelayIN(const char *_name, byte _pin) {
   this->name = new char[strlen(_name) + 1];

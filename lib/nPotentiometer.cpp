@@ -1,5 +1,12 @@
 #include "nPotentiometer.h"
 
+// Library NPMeter
+// Author: Neosy <neosy.dev@gmail.com>
+//
+//==================================
+// Version 0.1
+//==================================
+
 // ********************************* Functions for class PMeter ****************************
 NPMeter::NPMeter(const char *_name, byte _pin, uint16_t _sensitivity) {
   this->name = new char[strlen(_name) + 1];

@@ -1,5 +1,12 @@
 #include "nDHT.h"
 
+// Library NDHT sensor
+// Author: Neosy <neosy.dev@gmail.com>
+//
+//==================================
+// Version 0.1
+//==================================
+
 NDHT::NDHT(uint8_t _pin, uint8_t _type, uint8_t _count):DHT(_pin, _type, _count) {
 }
 

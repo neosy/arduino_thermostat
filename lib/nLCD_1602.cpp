@@ -1,5 +1,12 @@
 #include "nLCD_1602.h"
 
+// Library NLCD1602
+// Author: Neosy <neosy.dev@gmail.com>
+//
+//==================================
+// Version 0.1
+//==================================
+
 NLCD1602::NLCD1602(uint8_t lcd_Addr, uint8_t lcd_cols, uint8_t lcd_rows):LiquidCrystal_I2C(lcd_Addr, lcd_cols, lcd_rows) {
   this->cols = lcd_cols;
   this->rows = lcd_rows;

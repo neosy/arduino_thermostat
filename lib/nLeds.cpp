@@ -1,5 +1,12 @@
 #include "nLeds.h"
 
+// Library NLed
+// Author: Neosy <neosy.dev@gmail.com>
+//
+//==================================
+// Version 0.1
+//==================================
+
 // ********************************* Functions for class NLed ****************************
 NLed::NLed(const char *_name, uint8_t _pin) {
   this->name = new char[strlen(_name) + 1];
