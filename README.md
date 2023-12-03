@@ -12,6 +12,3 @@ The program has been tested and refined for a long time. The repository contains
 
 ## Photos of the working device
 ![IMG_20231104_110153](https://github.com/neosy/arduino_thermostat/assets/105918329/f894bf71-b588-4114-b1e7-5491affc128f)
-
-
-![IMG_20231104_110144](https://github.com/neosy/arduino_thermostat/assets/105918329/d9c52869-d4b6-4fa2-9622-21f349be7470)
