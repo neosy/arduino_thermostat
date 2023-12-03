@@ -5,7 +5,7 @@ The thermostat was designed to control an Arduino-based water heater.
 ## Installation
 Copy files from the `lib` and `src` folders to the same directory. Open the project file `thermostat_TSensor.ino` in the `Arduino` application. Then compile and upload to Arduino.
 
-## The device is checked
+## Works stably
 The program works stably and does not freeze. After turning off the power, the device boots up and continues to work. The program was tested and refined over 1.5 years.
 
 ## Photos of the working device
