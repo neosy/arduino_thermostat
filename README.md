@@ -10,7 +10,7 @@ Copy files from the `lib` and `src` folders to the same directory. Open the proj
 * Relay TONGLING JQC-3FF-S-Z
 * Potentsiometr (variable resistor to adjust the limit temperature)
 * 1 buttons (turning on/off the backlight)
-* 4 red LEDs
+* 4 red LEDs (heating progress)
 
 ## Works stably
 The program works stably and does not freeze. After turning off the power, the device boots up and continues to work.
