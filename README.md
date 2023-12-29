@@ -3,7 +3,8 @@ Arduino-based thermostat.
 The thermostat was designed to control an Arduino-based water heater.
 
 ## Installation
-Copy files from the `lib` and `src` folders to the same directory. Open the project file `thermostat_TSensor.ino` in the `Arduino` application. Then compile and upload to Arduino.
+Copy folders `libraries` and `thermostat` to the sketch directory. Open the project file `thermostat_TSensor.ino` in the `Arduino` application. Then compile and upload to Arduino.
+
 ### Hardware
 * Arduino Nano
 * LCD1602 I2C Blue
